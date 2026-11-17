@@ -1,0 +1,8 @@
+Evidencia actividad 2
+
+(.venv) PS C:\Users\198670-A\Documents\Examen_programacion_2> python .\Examen\main.py
+Ingrese la base del rectángulo: 8
+Ingrese la altura del rectángulo: 5
+Base: 8.0
+Altura: 5.0
+Área: 40.0
