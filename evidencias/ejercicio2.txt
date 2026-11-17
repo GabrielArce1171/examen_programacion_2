@@ -1,0 +1,19 @@
+Evidencia pruebas ejercicio 2
+
+(.venv) PS C:\Users\198670-A\Documents\Examen_programacion_2> python .\ejercicio_2\main.py
+Ingrese el primer número: 20
+Ingrese el segundo número: 8
+La suma de 20.0 y 8.0 es: 28.0
+La resta de 20.0 y 8.0 es: 12.0
+
+(.venv) PS C:\Users\198670-A\Documents\Examen_programacion_2> python .\ejercicio_2\main.py
+Ingrese el primer número: 10
+Ingrese el segundo número: 5
+La suma de 10.0 y 5.0 es: 15.0
+La resta de 10.0 y 5.0 es: 5.0
+
+(.venv) PS C:\Users\198670-A\Documents\Examen_programacion_2> python .\ejercicio_2\main.py
+Ingrese el primer número: 50
+Ingrese el segundo número: 45
+La suma de 50.0 y 45.0 es: 95.0
+La resta de 50.0 y 45.0 es: 5.0
