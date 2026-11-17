@@ -1,0 +1,13 @@
+Evidencia pruebas ejercicio 1
+
+(.venv) PS C:\Users\198670-A\Documents\Examen_programacion_2> python .\ejercicio_1\main.py
+Ingrese la cantidad de horas (entero mayor que cero): 4
+Horas: 4, Importe: $48.00
+
+(.venv) PS C:\Users\198670-A\Documents\Examen_programacion_2> python .\ejercicio_1\main.py
+Ingrese la cantidad de horas (entero mayor que cero): 2
+Horas: 2, Importe: $30.00
+
+(.venv) PS C:\Users\198670-A\Documents\Examen_programacion_2> python .\ejercicio_1\main.py
+Ingrese la cantidad de horas (entero mayor que cero): 6
+Horas: 6, Importe: $60.00
